@@ -23,7 +23,7 @@ public class ClassA {
 
         System.out.println(b[3]);
 
-      //  System.out.println(Arrays.toString(b));
+    //    System.out.println(Arrays.toString(b));
 
         //Print all elements of an array using for loop
         for(int i=1; i<=b.length; i++){
@@ -31,7 +31,7 @@ public class ClassA {
         }
 
         //Print all elements of an array using for each loop
-        for(int k: b){
+        for(int k : b){
             System.out.print(k +" ");
         }
 
