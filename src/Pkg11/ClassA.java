@@ -10,7 +10,6 @@ public class ClassA {
 
 
     public static void main(String[] args) {
-
         System.out.println(A);
         System.out.println(B);
         System.out.println(C);
@@ -20,7 +19,6 @@ public class ClassA {
         method2();
         method3();
         method4();
-
     }
 
 
